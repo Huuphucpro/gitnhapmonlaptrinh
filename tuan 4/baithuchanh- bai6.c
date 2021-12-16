@@ -18,7 +18,7 @@ int main(){
 			printf("nhap chieu rong hinh chu nhat: ");
 			scanf("%d" ,&w);
 			dienTich = w * l;
-			break;
+//			break;
 		case 3:
 			printf("nhap do dai canh day cua tam giac: ");
 			scanf("%d" ,b);
